@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Data files
+data/clean_sales_data.csv
+data/raw_sales_data.csv
